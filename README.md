@@ -1,6 +1,6 @@
 ## Hello There, Thanks for visiting my github profile. <img src="assets/hello.gif" width="28px" alt="hi">
 <p align="">
-I'm Azhar Anowar, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/>(Bangladesh). I love learning and making new things. 
+I'm Azhar Anowar, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> (Bangladesh). I love learning and making new things. 
 I'm also working as a freelance web specialist. If you have any project or anything to discuss with me, Reach me out with: <a href="mailto:azharanowar@gmail.com">azharanowar@gmail.com</a>.
 
 <h2> Skills </h2>
@@ -8,19 +8,19 @@ I'm also working as a freelance web specialist. If you have any project or anyth
   <tr>
     <td align="center" width="96">
       <a href="">
-        <img src="asset/javascript-original.svg" width="48" height="48" alt="Javascript" />
+        <img src="assets/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="asset/typescript-original.svg" width="48" height="48" alt="Typesript" />
+        <img src="assets/typescript-original.svg" width="48" height="48" alt="Typesript" />
       </a>
       <br>Typesript
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="asset/react-original.svg" width="48" height="48" alt="React js" />
+        <img src="assets/react-original.svg" width="48" height="48" alt="React js" />
       </a>
       <br>React JS
     </td>
@@ -32,7 +32,7 @@ I'm also working as a freelance web specialist. If you have any project or anyth
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="asset/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
+        <img src="assets/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <br>Bootsrap
     </td>
