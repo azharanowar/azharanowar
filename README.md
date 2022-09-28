@@ -1,69 +1,69 @@
 ## Hello There, Thanks for visiting my github profile. <img src="assets/hello.gif" width="28px" alt="hi">
 <p align="">
-I'm Azhar Anowar, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> I love to learning and making new things everyday.
-I'm also working as a freelance web specialist. Message me if you need any help</p>
+I'm Azhar Anowar, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/>(Bangladesh). I love learning and making new things. 
+I'm also working as a freelance web specialist. If you have any project or anything to discuss with me, Reach me out with: <a href="mailto:azharanowar@gmail.com">azharanowar@gmail.com</a>.
 
 <h2> Skills </h2>
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#azharAnowar">
-        <img src="./asset/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      <a href="">
+        <img src="asset/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar">
-        <img src="./asset/typescript-original.svg" width="48" height="48" alt="Typesript" />
+      <a href="">
+        <img src="asset/typescript-original.svg" width="48" height="48" alt="Typesript" />
       </a>
       <br>Typesript
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar">
-        <img src="./asset/react-original.svg" width="48" height="48" alt="React js" />
+      <a href="">
+        <img src="asset/react-original.svg" width="48" height="48" alt="React js" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar">
+      <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next js" />
       </a>
       <br>Next JS
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar">
-        <img src="./asset/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
+      <a href="">
+        <img src="asset/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <br>Bootsrap
     </td>
   </tr>
   <tr>
      <td align="center" width="96">
-      <a href="#azharAnowar">
+      <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
      <td align="center" width="96">
-      <a href="#azharAnowar">
+      <a href="">
         <img src="https://parse.programmieren-muenchen.de/parse/files/unilearn/liquid-logo-text-768.png" width="48" height="48" alt="Liquid" />
       </a>
       <br>Liquid
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar">
+      <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96"> 
-      <a href="#raqibnur" >
+      <a href="" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="#azharAnowar" >
+      <a href="" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySql
