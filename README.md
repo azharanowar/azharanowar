@@ -118,7 +118,6 @@
 </p>
 
 <h2> My GitHub Status</h2>
-
 <a href="https://github.com/azharanowar">
   <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=azharanowar&count_private=true&show_icons=true&theme=default" />
