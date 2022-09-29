@@ -35,16 +35,23 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="assets/html-svgrepo-com.svg" width="48" height="48" alt="HTML 5" />
+        <img src="assets/wordpress-icon.svg" width="48"
+          height="48" alt="WordPress" />
       </a>
-      <br>HTML5
+      <br>WordPress
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="assets/css-icon.svg">
-        <img src="" width="48"
-          height="48" alt="CSS3" />
+      <a href="">
+        <img src="assets/html-svgrepo-com.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="assets/css-icon.svg" width="48" height="48"
+          alt="CSS3" />
       </a>
       <br>CSS3
     </td>
@@ -69,13 +76,7 @@
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="assets/wordpress-icon.svg" width="48"
-          height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
+    
   </tr>
 </table>
 
