@@ -1,6 +1,6 @@
 <h2>Hello There, Thanks for visiting my github profile.<img src="assets/hello.gif" width="28px" alt="hi"></h2>
 <p align="">
-I'm Azhar Anowar, a fronend developer from <img src="assets/bangladesh.png" width="18" /> bangladesh. I always like to learn and making new things and have experience with new stuff.
+I'm Azhar Anowar, a fronend web developer from <img src="assets/bangladesh.png" width="18" /> bangladesh. I always like to learn and making new things and have experience with new stuff.
 I'm also working as a freelance web developer. If you have a project or anything to discuss with me, Reach me out with: <a href="mailto:azharanowar@gmail.com">azharanowar@gmail.com</a>.
 
 <h2>My Skills</h2>
