@@ -37,7 +37,7 @@
       <a href="">
         <img src="assets/html-svgrepo-com.svg" width="48" height="48" alt="HTML 5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>
   </tr>
   <tr>
