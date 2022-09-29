@@ -1,4 +1,4 @@
-<h2>Hello There, Thanks for visiting my github profile.</h2><img src="assets/hello.gif" width="28px" alt="hi">
+<h2>Hello There, Thanks for visiting my github profile.<img src="assets/hello.gif" width="28px" alt="hi"></h2>
 <p align="">
   I'm Azhar Anowar, a fronend developer from <img src="assets/bangladesh.png" width="18" /> (bangladesh). I love
   learning and making new things.
@@ -6,7 +6,7 @@
   with: <a href="mailto:azharanowar@gmail.com">azharanowar@gmail.com</a>.
 
 <h2>My Skills</h2>
-<table align="center">
+<table align="">
   <tr>
     <td align="center" width="96">
       <a href="">
