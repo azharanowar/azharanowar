@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="assets/css3-svgrepo-com.svg">
+      <a href="assets/css-icon.svg">
         <img src="" width="48"
           height="48" alt="CSS3" />
       </a>
@@ -71,7 +71,7 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="assets/wordpress-svgrepo-com.svg" width="48"
+        <img src="assets/wordpress-icon.svg" width="48"
           height="48" alt="WordPress" />
       </a>
       <br>WordPress
@@ -108,7 +108,7 @@
         height="28">
     </a>
     <a href="https://github.com/azharanowar" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/azharanowar?label=Github&style=flat"
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/azharanowar?label=Github&style=flat"
         height="28">
     </a>
     <a href="https://github.com/azharanowar" target="_blank">
