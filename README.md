@@ -16,7 +16,7 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="assets/react-original.svg" width="48" height="48" alt="React js" />
+        <img src="assets/react-original.svg" width="48" height="48" alt="React JS" />
       </a>
       <br>React JS
     </td>
@@ -35,25 +35,18 @@
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="assets/typescript-original.svg" width="48" height="48" alt="Typesript" />
+        <img src="assets/html-svgrepo-com.svg" width="48" height="48" alt="HTML 5" />
       </a>
-      <br>TypeSript
+      <br>Html5
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48"
-          height="48" alt="Next js" />
+      <a href="assets/css3-svgrepo-com.svg">
+        <img src="" width="48"
+          height="48" alt="CSS3" />
       </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://parse.programmieren-muenchen.de/parse/files/unilearn/liquid-logo-text-768.png" width="48"
-          height="48" alt="Liquid" />
-      </a>
-      <br>Liquid
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="">
@@ -75,6 +68,13 @@
           alt="mysql" />
       </a>
       <br>MySql
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="assets/wordpress-svgrepo-com.svg" width="48"
+          height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
     </td>
   </tr>
 </table>
