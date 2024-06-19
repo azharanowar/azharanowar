@@ -26,7 +26,7 @@ I'm also working as a freelance web developer. If you have a project or anything
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"
+        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="48"
           height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -62,7 +62,7 @@ I'm also working as a freelance web developer. If you have a project or anything
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48"
+        <img src="https://raw.githubusercontent.com/laravel/art/d5f5e725c27f877ed032225fe0b00afee9337d0f/laravel-logo.svg" width="48" height="48"
           alt="Laravel" />
       </a>
       <br>Laravel
